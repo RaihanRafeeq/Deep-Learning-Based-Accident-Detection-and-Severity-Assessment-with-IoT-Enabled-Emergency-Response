@@ -1,0 +1,2 @@
+# Deep-Learning-Based-Accident-Detection-and-Severity-Assessment-with-IoT-Enabled-Emergency-Response
+This project develops an intelligent accident detection system using deep learning and IoT. Leveraging real-time traffic feeds, it combines a classification model to identify accidents, YOLOv5 to locate the accident area, and a CNN to assess severity as minimal, moderate, or intense, enhancing precision and response.
